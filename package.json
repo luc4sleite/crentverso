@@ -1,13 +1,13 @@
 {
   "name": "crentverso",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Um projeto para discussões ligadas a religão cristã",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "next dev"
   },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
